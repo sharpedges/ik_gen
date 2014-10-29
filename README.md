@@ -5,7 +5,7 @@ month = format(random.randint(1,12), '02') ## http://stackoverflow.com/questions
 last_nr  = format(random.randint(0,9999), '04')
 day = format(random.randint(1,31), '02')
 first_nr = str(first_nr)
-#sex = random.randint(1,2) <-- kui teha juurde aasta arvuga seotud esimese numbri valimine
+##sex = random.randint(1,2) <-- kui teha juurde aasta arvuga seotud esimese numbri valimine
 year = 0
 leap_year = 0
 
