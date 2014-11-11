@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0b47107-e450-424f-b582-444c7fdbe6b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ik_clip/pyhk.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ik_clip/pyhk_clipboard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ik_gen/mycsv.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ik_gen/csv_gen_poolik.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ik_gen/isikukood.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ik_gen.iws" />
@@ -279,7 +280,11 @@
       <created>1415028132299</created>
       <updated>1415028132299</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="readme üles">
+      <created>1415693497623</created>
+      <updated>1415693497623</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
