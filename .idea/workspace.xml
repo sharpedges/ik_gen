@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0b47107-e450-424f-b582-444c7fdbe6b4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/isikukood_gen.py" />
-      <change type="DELETED" beforePath="C:\Users\kristor\PycharmProjects\ik_gen\isikukood.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ik_clip/pyhk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ik_clip/pyhk_clipboard.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ik_gen.iws" />
@@ -126,6 +126,7 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="979" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ik_clip" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="tests" factoryName="py.test">
@@ -274,7 +275,11 @@
       <created>1414654791395</created>
       <updated>1414654791395</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="readme üles">
+      <created>1415028132299</created>
+      <updated>1415028132299</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
