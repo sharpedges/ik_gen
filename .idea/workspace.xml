@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0b47107-e450-424f-b582-444c7fdbe6b4" name="Default" comment="">
+    <list default="true" id="f0b47107-e450-424f-b582-444c7fdbe6b4" name="Default" comment="üles">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ik_gen.iws" />
@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="C:\Users\kristor\PycharmProjects\ik_gen" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
@@ -336,7 +336,15 @@
       <created>1416143659477</created>
       <updated>1416143659477</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="üles">
+      <created>1416143666322</created>
+      <updated>1416143666322</updated>
+    </task>
+    <task id="LOCAL-00012" summary="üles">
+      <created>1416143676845</created>
+      <updated>1416143676846</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
