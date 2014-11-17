@@ -1,5 +1,3 @@
-##username osa hetkel teostamata
-
 import sqlite3
 import datetime
 import time
@@ -23,7 +21,7 @@ conn = sqlite3.connect('main.db')
 c = conn.cursor()
 
 def print_ts():
-    sql = ("SELECT body_xml FROM Messages where chatname is 'rasmus.soot' and timestamp between '%s' and '%s'" % (date_to_timestamp(date)))
+    sql = ("SELECT body_xml FROM Messages where chatname is '" + username + "' and timestamp between '%s' and '%s'" % (date_to_timestamp(date)))
     for row in c.execute(sql):
         print (row)
 
