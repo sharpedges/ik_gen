@@ -5,6 +5,11 @@ import time
 date = input("Please enter a date (DD/MM/YYYY): ")
 username = input("Please enter a username: ")
 
+##quickfix to sql injection problem
+term = "'or 1=1 --"
+if term in username:
+    print ("You are a bad user!")
+    conn.close()    
 
 def date_to_datetime(date): ## http://stackoverflow.com/questions/17594298/date-time-formats-in-python
     date = datetime.datetime.strptime(date,"%d/%m/%Y")
